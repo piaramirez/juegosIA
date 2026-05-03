@@ -24,7 +24,7 @@ class GatoJuego:
         self.window.geometry("450x750")
         self.window.configure(bg="#1B396B")
         
-        # Protocolo para la "X" de la ventana
+        # Protocolo para la "X" de la ventanas
         self.window.protocol("WM_DELETE_WINDOW", self.cerrar_juego)
         
         self.dificultad = dificultad
@@ -219,3 +219,5 @@ class GatoJuego:
     def cerrar_juego(self):
         self.window.destroy()
         self.al_cerrar_callback()
+        
+        
