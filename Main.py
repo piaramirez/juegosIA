@@ -2,7 +2,7 @@
 ================================================================
 SISTEMA DE MENÚ PRINCIPAL - PROYECTOS DE INTELIGENCIA ARTIFICIAL
 ================================================================
-Fecha: 27 de Abril de 2026
+Fecha: 03 de Mayo de 2026
 Escuela: Universidad Nacional Autónoma de México (UNAM) FES Aragón
 Grupo: 2907
 Materia: Inteligencia Artificial
