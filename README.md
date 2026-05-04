@@ -5,8 +5,8 @@
 **Docente:** MARTIN ROMERO UGALDE  
 
 ## Integrantes del Equipo
-* **Flores Felix, Omar Victor**
 * **Ramírez Alcántara, Pedro Antonio**
+* **Victor Flores, Felix Omar**
 
 ---
 
@@ -34,7 +34,7 @@ Todos los programas permiten:
 ## Instrucciones de Ejecución
 
 ### Opción A: Ejecutable (.exe)
-1. Ejecute el archivo `Ejecutable`
+1. Ejecute el archivo `Ramirez_Pedro-Victor_Felix_IA07-P01-P02-P03`
 ### Opción B: Código Fuente (Python)
 Si desea ejecutar el programa directamente desde los scripts de Python, siga estos pasos:
 

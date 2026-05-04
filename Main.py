@@ -2,14 +2,14 @@
 ================================================================
 SISTEMA DE MENÚ PRINCIPAL - PROYECTOS DE INTELIGENCIA ARTIFICIAL
 ================================================================
-Fecha: 03 de Mayo de 2026
+Fecha: 04 de Mayo de 2026
 Escuela: Universidad Nacional Autónoma de México (UNAM) FES Aragón
 Grupo: 2907
 Materia: Inteligencia Artificial
 Docente: MARTIN ROMERO UGALDE
 Integrantes del equipo (Orden alfabético por apellido):
-            1. Flores Felix, Omar Victor
-            2. Ramírez Alcántara, Pedro Antonio
+            1. Ramírez Alcántara, Pedro Antonio
+            2. Victor Flores, Felix Omar
 ================================================================
 Este módulo implementa el menú principal que integra los tres
 proyectos obligatorios requeridos:
